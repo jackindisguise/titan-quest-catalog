@@ -1,0 +1,462 @@
+ウォーフェア・マスタリー	Warfare Mastery
+戦士の技術をマスターするために 肉体と精神を鍛える	Provides physical conditioning and discipline that will allow your character to master the skills of a warrior.
+バトル・レイジ	Battle Rage
+敵の攻撃を受ける毎にバトル・レイジ状態になる チャンスがあり 短時間 ダメージと 攻撃アビリティが増加する	Each enemy hit has a chance of sending you into a battle rage that adds bonus damage to attacks and increases Offensive Ability for a short duration.
+クラッシュ・ブロウ	Crushing Blow
+バトル・レイジ発動中に クリティカルヒットによる追加ダメージの チャンスが発生する	Provides a chance for attacks to cause bonus damage while in Battle Rage.
+カウンター・アタック	Counter Attack
+バトル・レイジ発動中に 敵の攻撃に反撃するチャンスがある	Provides a chance to counter attack an enemy after being hit in Battle Rage.
+オンスロート	Onslaught
+標準攻撃として使用する 攻撃が命中する毎にダメージが増加する 攻撃を続けないと急速にオンスロートの 効果はなくなる {^y}左クリックにこのスキルを割り当てよう	When used as your default weapon attack, Onslaught charges up as you hit enemies causing increased damage.  The first hit always charges Onslaught to the first level of the skill and it continues to charge until it reaches your current skill level. Onslaught dissipates rapidly when not attacking.  {^y}Assign this skill to your left mouse button.
+アーダー	Ardor
+前方に攻撃を加えながら勢いをつけることで 攻撃及び移動速度が上昇する	You build momentum as you drive your attack forward, attacking and moving more rapidly.
+イグノア・ペイン	Ignore Pain
+完全に精神を戦闘に集中することで 物理及び刺突被ダメージを無効化する	Total focus in the heat of battle allows you to ignore physical and piercing damage.
+テューマルト	Tumult
+二刀流で隣接する最大三体の敵を攻撃する	A Dual Wield technique that hits up to 3 adjacent enemies.
+クロスカット	Cross Cut
+二刀流で最大二体の敵を十字斬りで攻撃する	A Dual Wield technique that can hit up to 2 enemies with a cross-cutting scissor motion.
+デュアル・ウィールド	Dual Wield
+二つの武器を効果的に扱う方法を学ぶ	Learn to effectively wield two weapons and perform occasional double attacks.
+ハムスタリング	Hamstring
+敵の足を狙って攻撃することで 短時間 走る能力を奪い防御力を低下させる	An attack aimed at the enemy's legs reduces their ability to run and increases their vulnerability for a short duration.
+ヒュー	Hew
+二刀流で与えるダメージが50%増加する	A Dual Wield technique that causes increased damage by 50%.
+ウェポン・ブロック	Weapon Block
+二刀流のとき 武器で敵の攻撃を防ぐチャンスが発生する。 	Provides a chance to block incoming attacks with your weapons while Dual Wielding.
+ウォー・ウィンド	War Wind
+回転攻撃により最大四体の敵にダメージを与える	Executes a devastating spinning attack that can damage up to four enemies.  Initially each hit is not as powerful as a normal attack but the effectiveness increases every level.
+ラサレイト	Lacerate
+ウォーウィンドに出血ダメージが加わり 攻撃可能な敵の数が増加する 最低一つの剣斧または槍 を装備する必要がある	Adds bleeding damage to War Wind and increases the number of enemies hit.  Requires at least one sword, axe, or spear.
+ウォー・ホーン	War Horn
+角笛で勝利の合図をすることで 一時的に敵をスタン状態にする	The triumphant call of your war horn temporarily stuns enemies.
+ウェポン・トレーニング	Weapon Training
+何年にも渡る剣・斧・棍棒の訓練により 敵の攻撃に素早く反応し高速で攻撃する ことができる	Years of training with the sword, axe, and club allow you to attack faster and more accurately.
+ストーム・マスタリー	Storm Mastery
+心を統御し精神的に集中することで 煩悩を心から追い払い自然界の エレメンタルパワーを利用する方法を学ぶ	Provides the mental control and spiritual focus to unfetter your mind of earthly concerns and learn to harness the elemental power of weather.
+ストーム・サージ	Storm Surge
+このスキルをアクティブにすると 敵の攻撃を受ける度にストームエナジーの 暴風が解き放たれるチャンスがある	When activated, each enemy hit has a chance of unleashing a violent squall of storm energy.
+サンダーボール	Thunderball
+電気エネルギーの球体を投げつけ 小範囲の敵にスタンとダメージを与える	Hurls a ball of electrical energy that damages and stuns enemies in a small blast radius.
+コンカッシヴ・ブラスト	Concussive Blast
+サンダーボールの威力を増幅する スタンダメージと爆発範囲が拡大する	Enhances the power of Thunderball causing sparks to leap from the initial explosion.  Each spark that hits an enemy inflicts lightning damage and stuns.
+アイス・シャード	Ice Shard
+氷の破片を敵に投げつけ冷気ダメージを与え 一時的に動きを鈍くする	Projects a deadly shard of ice at the target inflicting cold damage and temporarily slowing them.
+ヴェロシティ	Velocity
+アイス・シャードの ダメージとスピードが増加し 破片がターゲットを貫通するチャンスが発生する	Increasing the speed and damage of Ice Shard. Gives each shard a chance to punch through its target and keep going.
+トーレント	Torrent
+アイス・シャードの破片の数が増加し 敵に降り注ぐ	Increases the number of shards cast, sending a deadly torrent at enemies.
+ライトニング・ボルト	Lightning Bolt
+天空から雷を呼び出し敵を殺す	Calls down a powerful bolt of lightning from the heavens to decimate your target.
+チェイン・ライトニング	Chain Lightning
+ライトニング・ボルトのターゲットから電流が 飛び移り 周囲の敵にダメージを与える	Causes electricity to leap from the target of your Lightning Bolt skill and strike additional nearby enemies.
+ストーム・ニンバス	Storm Nimbus
+このスキルをアクティブにすることで 術者にストームパワーを付与し 攻撃に冷気と雷ダメージが加わる	When active, the player is imbued with the power of the storm, causing their attacks to strike with cold and lightning damage.
+ハート・オブ・フロスト	Heart of Frost
+ストーム・ニンバスをアクティブにすると 術者の周囲の空気が氷のように冷たくなり 範囲内の敵の動きが鈍くなる	When Storm Nimbus is active, the air around the player becomes icy cold and slows any attackers within its perimeter
+スタティック・チャージ	Static Charge
+ストーム・ニンバスをアクティブにすると 術者の体内で電気エネルギーが発生し 敵の武器を伝わり強烈な電撃を食らわせる	Electrical energy builds inside the player while Storm Nimbus is active and passes through enemy weapons that come in contact, delivering a powerful shock.
+スピリット・マスタリー	Spirit Mastery
+精神を操る秘術を学ぶために必要な 秘密の知識と精神修養を身につける	Provides the arcane knowledge and mental discipline to study the dark art of controlling spirits.
+デス・オーラ	Death Aura
+このスキルをアクティブにすることで 術者から死の冷気が放出され 敵の攻撃と動きが鈍くなる	When active... a deathly chill radiates from the character slowing the attack and movement of enemies.
+ビジョン・オブ・デス	Vision of Death
+死の幻覚が周囲の敵の心に忍び込む 敵は気が弱くなり恐怖で逃げ出す それでも戦う敵は戦闘力が低下する	Assaults the minds of surrounding enemies with images of their own death causing the weak-hearted to flee in horror and more resolute foes to fight less effectively.
+コンシューム・ライフ	Consume Life
+敵のヘルスを吸収し術者のヘルスを回復する	Leaches life from an enemy to replenish your own.
+デシケイト	Desiccate
+生命力の消耗速度と時間を増加させ 敵を老廃させる。 	Intensifies the rate and duration of life consumption leaving enemies shriveled and lifeless
+デスチル・オーラ	Deathchill Aura
+術者から死の冷気が放出される  敵の攻撃と動きが鈍くなりヘルスも減少する 	A deathly chill radiates from the character slowing the attack and movement of enemies as it diminishes their life.
+ラヴィッジ・オブ・タイム	Ravages of Time
+隣接する敵の武器の経年劣化を加速させる 武器は鈍くなり鎧は朽ち果てる 	Accelerates the effects of time on adjacent enemies' equipment causing weapons to dull and armor to crumble.
+ネクロシス	Necrosis
+隣接する敵の体質を弱体化させる 生命力ダメージやヘルス吸収などの 生命に対する直接攻撃に弱くさせる	Weakens the constitution of adjacent enemies making them more susceptible to attacks that directly damage their life such as vitality damage and life leaching.
+スペクトラル・タッチ	Spectral Touch
+ダイア・ストライクが命中した時に 敵のエナジーを減少させて エナジー燃焼を起こすチャンスが発生する	Adds a chance that each hit with Dire Strike will negate energy from your target and inflict energy burn.
+デス・ウォード	Death Ward
+術者を結界で守る 術者のヘルスが危険なほど低くなると ヘルスを回復し死から守る	Places a magical ward on the player that protects them from death by granting additional life when their life gets dangerously low.
+チャネル・エナジー	Channel Energy
+生命力を消費して異世界の スピリットエナジーと交信する 交信が始まると 終わるまでとめることはできない	Channels spirit energy from the ether at the expense of life.  Once channeling begins, the process cannot be stopped until it has run its course.
+ダイア・ストライク	Dire Strike
+通常攻撃として使用する 攻撃が命中すると敵のヘルスを吸収し 術者のライフを回復する	When used as your default weapon attack, each hit leaches life from the target and replenishes your own.
+ソウル・ブライト	Soul Blight
+リッチキングが負のエナジーの爆発を 引き起こせるようになる 敵の体質にダメージを与え あらゆるダメージを受けやすくする。	Allows the Liche King to create an explosion of negative energy that damages enemy's constitution making them more susceptible to all forms of damage.
+スペクトラル・エナジー・ネクサス	Spectral Energy Nexus
+リッチキングの スペクトラル・エナジー・ボルトが 敵を伝わって複数の敵に命中するようになる	Causes the Liche King's Spectral Energy Bolt to chain and hit additional enemies, damaging each one it strikes.
+レイス・シェル	Wraith Shell
+リッチキングの物質的存在が希薄になり 全ての攻撃に対し傷つきにくくなる	Allows the Liche King to diminish its corporeal presence making it less vulnerable to all types of damage.
+サモン・リッチキング	Summon Liche King
+遥か昔 強力な魔術師達はハデスを騙し 不死身のリッチとして肉体の死後も長く生き 続けていた。 危険な奇跡の業を実践し 古代のリッチの魂を術者の意思の下に 縛りつけることで リッチのパワーを 自分の物にできる。	In ages past, powerful sorcerers learned how to cheat Hades and persist as undead liches long after death had robbed their bodies of life.  A dangerous practice of Theurgists is to bind the souls of these ancient liches to their will, thus acquiring their powers.
+アンアースリー・パワー	Unearthly Power
+上位の異世界からパワーを引き出して 術者と仲間を強化する。 術者の生命力を犠牲にすることに注意せよ	Draw upon even greater otherworldly powers to augment yourself and allies in battle, but be wary of the cost exacted from your own vitality.
+スピリット・ウォード・タリスマン	Spirit Ward Talisman
+サークル・オブ・パワー	Circle of Power
+強力な魂を有するトーテムを召喚し そばにいるとプレイヤーと仲間に 大きな精神的エネルギーを注入する	Summons a totem that holds a powerful spirit, infusing you and all allies with great mental energy while standing close to it.
+スペクトラル・シュラウド	Spectral Shroud
+レイスのパワーと術者の付与する 攻撃にヘルス吸収が効果が加わり 全てのダメージ抵抗が増加する しかし効果中は術者のヘルスが減少する	Imbues you with the deathly powers of a wraith, adding life leach to your attacks and increasing resistance to all damages but it also causes you to lose life while active.
+ローグ・マスタリー	Rogue Mastery
+ローグとしての訓練に必要な 肉体と秘密の知識を身につける	Provides the physical conditioning and secret knowledge necessary to train as a rogue.
+アナトミー	Anatomy
+解剖学の深い知識によって 急所を直接攻撃することができる。 出血ダメージの効果とチャンスが増加する	With a deep knowledge of anatomy, attacks can be directed at vital points in the body increasing the chance and effectiveness of bleed damage.
+スローイング・ナイフ	Throwing Knife
+刺突系の刀剣を投げることで 出血ダメージを与える	Throw a piercing blade at your opponent capable of causing prolonged bleeding.
+ブレード・ホーニング	Blade Honing
+このスキルをアクティブにすると プレイヤーと仲間の剣と槍の切れ味が 良くなり刺突ダメージが増加する	While active, this skill ensures that the blades of yourself and allies will remain razor sharp and inflict increased piercing damage.
+カリキュレイテッド・ストライク	Calculated Strike
+通常攻撃として使用する。 4ヒット毎にスキルが発動し 追加ダメージを与える {^y}左クリックにこのスキルを割り当てよう	Used in place of your normal attack, every fourth hit with calculated strike will deliver increased damage.{^y}  Assign this skill to your left mouse button.
+マンドレイク	Mandrake
+敵の心を曇らせ混乱状態にさせる毒を 与えるチャンスが加わる	Adds a chance for poison to cloud an enemy's mind, sending them into a state of confusion.
+トキシン・ディスティレイション	Toxin Distillation
+自然界の毒素を抽出する錬金術を 学ぶことにより 全ての毒攻撃の持続時間と 効果が増加する	Learn alchemical processes to distill natural toxins, increasing the potency and duration of all poison attacks.
+エンベノム・ウェポン	Envenom Weapon
+このスキルをアクティブにすることで 武器に猛毒が塗布される	Coats your weapons with deadly poison while activated.
+フラッシュ・パウダー	Flash Powder
+手品のトリックを悪用した技で フラッシュパウダーで近接する敵の 目をくらまし武器を扱う能力を 減退させる 方向感覚を失わせることもある	A magician's trick turned to more nefarious purposes, flash powder blinds adjacent enemies impairing their ability to hit with weapons and potentially disorienting them.
+インキャパシテイト	Incapacitate
+短時間のスタン効果が加わる	adds a short duration stun
+インターナル・ブリーディング	Internal Bleeding
+出血ダメージと持続時間が増加する	Increases the duration and damage of internal bleeding
+リーサル・ストライク	Lethal Strike
+通常攻撃の何倍ものダメージを一撃で与える	A single deadly hit that multiplies the damage of a normal weapon attack.
+ナイトシェイド	Nightshade
+猛毒を持つナイトシェイドという植物から 採取される油によりエンベノム・ウェポンに 敵の動作を遅くする効果が加わる	Oils harvested from deadly Nightshade plants give your Envenomed Weapons the ability to slow enemies.
+オープン・ウーンズ	Open Wound
+剣・槍・弓・斧による攻撃に出血ダメージを 与えるチャンスが加わる	Adds a chance that weapon attacks will inflict bleeding damage when using a sword, spear, bow, or axe.
+イベイジョン	Evasion
+どんな丈夫な鎧にも隙間はある。 生き抜くには攻撃に当たらないことが最良である	Even the sturdiest armor has its chinks, the best way to stay alive is to not get hit.
+ネイチャー・マスタリー	Nature Mastery
+野生動物の言葉を学び 自然の隠された力を使いこなすために 必要な精神的調和と忍耐力を得る	Grants the inner harmony and patience necessary to learn the language of wild creatures and master the hidden power of nature.
+ネトル・シード	Nettle Seed
+魔法の種を地面に投げると 活発なイラクサが自然に発生する	Casting these magic seeds to the ground will cause an animated Stinging Nettle plant to spontaneously spring up.
+コンヴァレセンス	Convalescence
+このスキルをアクティブにすると ゆるやかに継続的に治癒される	Grants gradual but sustained healing while active.
+ブライアー・ウォード	Briar Ward
+術者の周囲をイバラの茂みで防御する 敵がイバラを越えることはできない	A protective grove of briars grows around you that enemies cannot pass through.
+サンクチュアリー	Sanctuary
+イバラのパワーが内部の人々に活力を与え スキルの使用に必要なエナジーコストを下げる	The power of the grove revitalizes those within and reduces the energy consumed by skill use.
+ソーン	Thorns
+ブライアー・ウォードから棘が生え 攻撃してくる敵にダメージを与える	Causes thorns to sprout from your Briar Ward that will damage enemies that hit it.
+サバイバル・インスティンクト	Survival Instinct
+ヘルス低下時に生存本能が目覚める	An instinctual will to live is triggered whenever health is low.
+リグロース	Regrowth
+ヒーリングエナジーが高まり 急速にターゲットした仲間のヘルスを回復する	A wave of healing energy rapidly restores lost life to the target ally.
+ディゼミネーション	Dissemination
+リグロースの効果が最初のターゲットから広まり 近くの仲間にも効果を及ぼす	Causes regrowth energy to disseminate from the initial target and leap to additional nearby allies.
+リフレッシュ	Refresh
+スキルのリチャージ時間を減少させ それらのスキルをより頻繁に使用できる	Subtracts time from recharging skills allowing you to use them more frequently.
+アクセラレーテッド・グロース	Accelerated Growth
+リグロースのリチャージ時間を短縮する	Allows Regrowth to be cast more frequently.
+ハンティング・マスタリー	Hunting Mastery
+狩猟術を会得するのに必要な 肉食獣的な精神と狡猾さを学ぶ	Imparts the predatory spirit and cunning necessary to learn the arts of hunting.
+ウッド・ロア	Wood Lore
+自然の中で生き抜くには弓と槍で狩をする 能力が重要である。 これらの武器に精通し 優れたスピードと正確さで 扱えるようになる	Central to survival in the wilderness is the ability to hunt with bow and spear.  Great familiarity with these weapons allows you to wield them with exceptional speed and grace.
+バーブド・ネット	Barbed Netting
+エンスネアの網に付いた逆棘の鉤が 敵に引っ掛かる 獲物がもがくことで出血ダメージを与える	Barbed hooks on the hunter's Ensnare net tear into enemies as they struggle causing them to bleed.
+コール・オブ・ハント	Call of the Hunt
+コール・オブ・ハントに応える者は 戦闘時にスピードと熟練度が上昇する	Those who answer the call of the hunt will fight with increased speed and cunning.
+カニング	Cunning
+コール・オブ・ハントの効果中にビーストと ビーストマンに対するダメージと 攻撃アビリティが増加する	Increases offensive ability and damage when fighting beasts and beastmen during Call of the Hunt
+エンスネア	Ensnare
+重りの付いた網を敵の足をめがけて投げて 動けなくするが 敵の攻撃範囲内にいれば 攻撃を受ける	Casts a weighted net around the feet of an enemy holding them in place but not preventing them from attacking if you are within their range.
+インプルーブド・ファイアリング・メカニズム	Improved Firing Mechanism
+ボルトトラップに改造を加え 一秒あたりのボルトの発射数を増やす	Modifications to the Bolt Trap increase the number of bolts fired per round.
+レイ・トラップ	Lay Trap
+ ボルトトラップを仕掛ける。 機械仕掛けのトラップは近づく敵に 高速の矢を放つ	Drops a mechanical bolt trap that will trip when enemies draw near and rapidly fire out deadly bolts.
+アート・オブ・ハント	Art of the Hunt
+狩猟経験によりビーストやビーストマン などの見慣れた獲物に対し優位に立てる	Hunting experience gives you the edge when facing familiar quarry such as Animals and Beastmen.
+パンクチュア	Puncture
+マークスマンシップを使用中に 弓矢が敵を貫通しダメージを与える チャンスが発生する	Provides a chance that arrows will pass through enemies and continue on to hit additional targets when using Marksmanship.
+ハウンド・オブ・ハント	Hounds of the Hunt
+角笛を吹き鳴らすと スピリットウルフが狩りに参加する	When the horn is sounded spirit wolves will join the hunt.
+ラピッド・コンストラクション	Rapid Construction
+トラップを組み立てる知識を習得し 次のトラップを作るまでの時間を短縮する	Expertise in assembling traps reduces the amount of time it takes to create a new trap after one has been set.
+イクスプロイット・ウィークネス	Exploit Weakness
+敵のミスと隙を最大限利用し 致命傷を与える	Take full advantage of your enemy's mistakes and vulnerable moments to inflict savage wounds.
+テイク・ダウン	Take Down
+槍で鋭く突き 敵に破滅的な刺突ダメージを与え 敵のヘルスを一定量を減少させる	A brutal thrust from your spear delivers devastating piercing damage to enemies and diminishes a portion of your enemy's total life.
+イヴィッサレイト	Eviscerate
+致命的な弱点を狙い継続的な 出血ダメージを与える	Targeting vital weak-points on your enemy causes sustained damage from bleeding.
+ハーバル・リメディ	Herbal Remedy
+自給自足の生活の中で 治療薬を作るための 薬草の見分け方や 利用法を習得する。 効果中は 毒に対する抵抗力が上がり 治癒力が増幅する	Living off the land, you learn to identify and utilize medicinal plants to create healing salves.  When applied it will fortify against poison and healing is accelerated for a duration.
+テイク・ダウン	Take Down
+不意打ちでビーストとビーストマンに対し 致命的なダメージを与える	A surprising strike that will deliver most Animals and Beastmen to their grave.
+トレイル・ブレージング	Trail Blazing
+絶え間なく獲物を追跡する忍耐力を得る どんなに深い藪があっても追跡速度が 落ちることはない	Grants those who follow the hunt endurance to relentlessly track their quarry, preventing even the most tangled thicket from slowing pursuit.
+ファインド・カバー	Find Cover
+攻撃中に遮蔽物を利用し 余計なダメージを避ける	Making use of available cover as you press your attack allows you to avoid unnecessary damage.
+スタディー・プレイ	Study Prey
+遠くから獲物を観察し弱点を見つけることで 刺突ダメージが増加する	By observing your prey from a distance you may discover its weakness, resulting in greater pierce damage.
+フラッシュ・アウト	Flush Out
+開けた場所におびき寄せ 敵を無防備にする	Draw your enemies into the open, making them more vulnerable to attack.
+モンスター・ルアー	Monster Lure
+囮を設置し 近くのモンスターの注意を集める	Drops down a decoy to attract the attention of nearby monsters.
+アース・マスタリー	Earth Mastery
+古代から伝わる技法で心と精神を 鍛えることにより大地からパワーを引き出し 岩と炎を支配する能力を得る	Trains your mind and spirit in ancient techniques that will enable you to draw power from the Earth and gain mastery over rock and fire.
+メタモーファシス	Metamorphosis
+高熱と高圧によりコア・ドウェラーを 構成する成分が硬化し ダメージ抵抗が上昇する	Under tremendous heat and pressure, the composition of the Core Dweller hardens making it more resistant to damage.
+ストーン・スキン	Stone Skin
+アース・エンチャントの効果範囲内で  鎧が硬化し防御力と炎抵抗力が増加する	Tempers armor, increasing protection and fire resistance while under the effects of Earth Enchantment.
+コンフラグレイション	Conflagration
+ボルカニック・オーブの効果範囲が広がり 周囲の敵に火をつけ焦熱ダメージを負わせる	Increases the explosion radius of Volcanic Orb and causes enemies hit by it to catch fire and suffer burn damage.
+ブリムストーン	Brimstone
+レイン・オブ・ファイア発動中に 燃え盛る硫黄が降り注ぎ大地を炎で包む	Calls down fiery brimstones during Rain of Fire that explode on impact igniting the ground in flames.
+フレイム・アーチ	Flame Arch
+フレイム・サージのフレームジェットの数と ダメージが増加する	Increases the damage and number of flame jets created by Flame Surge.
+ブリムストーン	Brimstone
+アース・エンチャントの効果範囲内で 物理攻撃ダメージが増加し 炎ダメージを与えるチャンスが加わる	Boosts the physical damage of attacks and provides a chance of causing critical fire damage while under the effects of Earth Enchantment.
+アース・エンチャント	Earth Enchantment
+術者と周囲の仲間の武器に 岩と炎のパワーを付与する	Imbues your weapons and the weapons of nearby allies with the power of rock and flame.
+フラグメンテイション	Fragmentation
+ボルカニック・オーブが爆発した時に 岩の破片を撒き散らし物理ダメージを与える	Causes the Volcanic Orb to violently explode on impact sending out fragments of rock that each inflict physical damage to the enemies they hit.
+イモレーション	Immolation
+焦熱ダメージの威力と 効果時間が増加する	Increases the damage and duration of burn damage.
+インナー・ファイア	Inner Fire
+コア・ドウェラーのスピードが増加し 攻撃に炎ダメージが加わる	Increases the Core Dweller's speed and adds fire damage to its attacks.
+イラプション	Eruption
+地面に火山性の亀裂が発生し 溶岩と燃え盛る硫黄の塊が 間欠泉のように吹き出る	Volcanic fissures form in the ground, emitting deadly geysers of molten flame and fiery chunks of brimstone.  Each fragment inflicts physical and fire damage to the enemies it hits.
+リング・オブ・フレイム	Ring of Flame
+一時的に術者を炎のリングで取り囲み 近接する敵を焼き焦がす	Encircles you in a searing ring of flames burning all enemies that come within its radius.
+ストーン・フォーム	Stone Form
+周囲に岩の壁を作り術者を密閉する。 自然回復速度が増加するが 効果中は動くことができない	An impervious layer of rock envelops you for a short duration boosting regeneration but prohibiting movement.
+サモン・コア・ドウェラー	Summon Core Dweller
+大地の底から強力な エレメンタル・ガーディアンを呼び出す	Draws forth a powerful elemental guardian from the Earth's fiery depths.
+フレイム・サージ	Flame Surge
+術者の手から3つの フレームジェットを放出し 近距離にいる敵を焼き尽くす	Three jets of flame erupt from the caster's hands each inflicting incinerating fire damage to enemies.
+ボルカニック・オーブ	Volcanic Orb
+燃え盛る硫黄の球を投げる。 地面に当たると爆発し 小範囲内にいる敵に 物理及び炎ダメージを与える	Lobs a burning orb of fiery brimstone that explodes when it hits the ground inflicting fire and physical damage to enemies in a small radius.
+ワイルドファイア	Wildfire
+コア・ドウェラーが地面を 燃え上がらせ 範囲内の敵に深刻な 焦熱ダメージを与える	Allows the Core Dweller to ignite an area of ground causing severe burn damage to enemies within.
+ディフェンス・マスタリー	Defense Mastery
+自分や他人を守る技術を会得するために 必要な忍耐力と腕力を身につける	Provides the fortitude and strength to master skills for the protection of yourself and others.
+アドレナリン	Adrenaline
+敵の攻撃がヒットする毎に"興奮状態"になる チャンスがあり ヘルスの回復力が増大する	Each enemy hit has a chance of triggering an adrenaline rush that boosts life regeneration.
+ディフェンシブ・リアクション	Defensive Reaction
+アドレナリン発動中に攻撃速度とダメージが 増大する	Increases damage and attack speed during an adrenaline rush.
+ディスラプション	Disruption
+シールド・チャージの衝撃力が上昇し 近接する敵を驚かせ しばらくの間 スキルを使用不能にさせる	Increases the shock effect of Shield Charge, startling adjacent enemies and disrupting skill use for a time.
+クイック・リカバリー	Quick Recovery
+盾の防御力を強化し驚くべき速度で 複数の攻撃をブロックする しかし短時間しか効果は続かない	A strong shield arm allows you to block multiple attackers with amazing speed when necessary but it can only be kept up for a short time.
+アーマー・ハンドリング	Armor Handling
+鎧の着こなし方と正しい動作を学ぶことにより 同等の腕力を持つ戦士よりも重い鎧や 盾を装備できるようになる	Understanding how to properly adjust and move in armor allows you to wear heavier armor and shields than an untrained warrior of equivalent strength could manage.
+ラリー	Rally
+角笛で決死の攻勢を呼びかけ戦闘の 流れを変える 範囲内の全ての味方を勇気付け 体力を回復し継戦能力を高める	The resolute call of your horn can turn the tide of battle, inspiring all in its range to fight with renewed vitality.
+インスピレーション	Inspiration
+味方のエナジーを徐々に回復し継戦能力を高める	Gradually restores lost energy to allies allowing them to continue the fight.
+ディファイアンス	Defiance
+ラリー発動後の短期間 敵から受けたあらゆるダメージの一定割合を 敵にはじき返す	A percentage of all damage inflicted by enemies will be revisited back upon them for a short duration after using Rally.
+シールド・スマッシュ	Shield Smash
+盾で戦う技術の一つで武器と盾の両方で 敵にダメージを与える	A shield fighting technique that inflicts damage with both the weapon and the shield.
+ディスエイブル	Disable
+盾を敵に押し付けバランスを崩す	A fighting technique that utilizes the shield to crush foes and throw them off-balance.
+パルバライズ	Pulverize
+盾で敵を殴りつけ感覚を狂わせる	A fighting technique that utilizes the shield to slam into enemies, knocking them senseless.
+バトル・アウェアネス	Battle Awareness
+自分と味方の感覚が研ぎ澄まされた状態になり 敵の攻撃を効果的に受け流すことができる	Enter a state of heightened awareness that allows you and your nearby allies to perceive and respond to attacks more effectively.
+フォーカス	Focus
+自分と味方が敵の攻撃に素早く 反応できるようになり 盾でブロックするチャンスが増える	Focus allows you and your allies to react quickly to enemy attacks increasing the chance of a successful shield block.
+アイアン・ウィル	Iron Will
+味方に強敵に立ち向かう不屈の精神を与える	Grants allies the resolve to hold out against great adversity.
+ベーシック・ウェポン・アタック	Basic Attack
+左クリックで装備している武器を使い 基本的な攻撃をします	Performs a basic attack with your equipped weapon.
+レジリエンス	Resilience
+アドレナリンの発動頻度が増加する	Increases how often an Adrenaline rush can be triggered.
+バター	Batter
+盾の攻撃ダメージが増加し 短期間 敵の攻撃が遅くなる	A shield attack that hits for increased damage and slows enemies' attacks for a duration.
+レンド・アーマー	Rend Armor
+バターの効果が増幅し 敵の鎧を凹ます程の力で 3つのターゲットを攻撃できる	Increases the effectiveness of Batter causing it to hit three targets with enough force to dent their armor.
+コロッサス・フォーム	Colossus Form
+そびえたつ巨人のような姿になり敵を滅ぼす	Assume the form of a towering Colossus and lay waste to your enemies.
+エナジー・アブソープション	Energy Absorption
+敵から受けたスキルから エナジーを吸収する能力を得る	Grants the ability to absorb energy from the skill enemies use against you.
+シールド・チャージ	Shield Charge
+盾を構え敵に突撃する 敵にスタンとダメージを与える	A running attack that slams into the enemy with your shield causing bonus damage and stunning them.
+ドゥーム・ホーン	Doom Horn
+ウォーホーンで敵に死の運命を知らせる 敵の気力が萎え防御力が低下する	Your War Horn heralds the doom of your enemies, shattering their nerves and reducing their ability to defend themselves.
+アンセストラル・ホーン	Ancestral Horn
+先祖伝来の家宝に不気味な呪文を唱え エリュシオンの地から古代の英雄の幽霊を 戦場に召喚する	The ominous call on this ancient heirloom will summon forth ghostly heroes of old from the Elysian Fields to do battle once more.
+オーバーフェルム	Overwhelm
+走りながら敵に攻撃したとき 突然の襲撃により敵を圧倒し 隣接する敵の攻撃力と防御力を下げる	When you attack from a running charge, your sudden assault will overwhelm adjacent enemies disrupting attacks and weakening their defenses.
+プレイグ	Plague
+この魔法を味方にかけると その近くにいる敵は疫病に罹りヘルスが減少する 疫病は急速に周囲の生物に感染する	Plague afflicts nearby enemies with a debilitating ailment that reduces their health and quickly spreads to other nearby creatures.
+ラッキー・ヒット	Lucky Hit
+稀に幸運が訪れ カリキュレイテッド・ストライクが 敵の鎧をすり抜け致命傷を与える チャンスが加わる	Uncommonly good fortune provides a chance that calculated strikes will slip past enemy armor causing tremendous damage.
+フラーリィ・オブ・ナイフ	Flurry of Knives
+一度に多数のナイフを投げる方法を学び 疾風のように鋭い鋼鉄で敵を切り裂く	Learn to throw additional knives at once and cut down enemies with a lethal flurry of razor-sharp metal.
+ディフェンシブ・リアクション	Defensive Reaction
+アドレナリン発動時に 体の抵抗力が増しエレメンタル耐性が増加する	Triggered by an adrenaline rush, the body's natural resistances increase allowing you to more easily endure the elements.
+ディスペル	Dispell
+敵にかかった良い効果の魔法か 味方にかかった悪い効果の魔法を全て取り除く 魔法の急な消失により敵は 生命力ダメージを受ける	Removes all positive enchantments from enemies targets or all negative enchantments from friendly targets.  The sudden shock of enchantments torn off enemies inflicts vitality damage.
+ラサレイト	Lacerate
+強く切りつけて 一度の攻撃で複数の敵を引き裂く	Lacerate multiple enemies in a single attack with this powerful sweeping cut.
+リバーサル	Reversal
+短距離だが 自分と敵か味方との位置を入れ替える	Magically exchange places with an enemy or ally over short distances.
+トリーチラス・アライアンス	Treacherous Alliance
+策略と狡猾な説得の力で 敵を戦闘中に術者を助けるように仕向ける	With guile and insidious powers of persuasion, trick enemies into temporarily aiding you in battle.
+サモン・ウィスプ	Summon Wisp
+大気から不死身のストーム・ウィスプを召喚し 敵と戦わせる	Summon an immortal Storm Wisp from the atmosphere to battle your enemies.
+ハイポサーミア	Hypothermia
+強烈な冷気により敵にダメージを与えるが 凍っている間は炎がとても効きにくくなる	Intense cold damages enemies and makes them highly vulnerable to fire while in their frozen state.
+スコール	Squall
+指定地点に暴風を作り出し 範囲内の敵の射撃精度を悪くする	Creates a wind storm in the target area that decreases the projectile attack accuracy of enemies caught within it.
+モルテン・ロック	Molten Rock
+ストーン・フォームに炎反射ダメージが加わる	Adds retaliation fire damage to Stone Form.
+インナー・ファイア	Inner Fire
+コア・ドウェラーのスピードが上昇し 炎反射ダメージが加わる	Increases the Core Dweller's speed and adds fire damage to its attacks.
+プロボック	Provoke
+敵を刺激して注意を仲間から引き離す	Provokes enemies to draw their attention away from allies.
+ダーク・カブナント	Dark Covenant
+神秘的な異世界の存在と交信し 強大な力を得る しかし生命力を代償とする	Mysterious otherworldly entities offer great power to Spirit Masters who can commune with them.  The cost, however, is measured in life.
+スペル・ブレイカー	Spell Breaker
+負のエネルギーパルスで、味方にかけられた 負の魔法や敵の支援魔法を打ち消す 又、敵のエナジーを減少させる	A pulse of negatively charged energy dispels hostile enchantments on allies or, when cast on enemies, breaks their beneficial enchantments and negates a portion of their energy.  This attack inflicts bonus damage when used against Magical creatures.
+スペル・ショック	Spell Shock
+スペル・ブレイカーが 敵の支援魔法を打ち消すと同時に エナジー燃焼ダメージを与え 敵の魔法使いのスキルを使用する能力を奪う	Inflicts energy burn damage and disrupts enemy spell-casters' ability to use skills as their beneficial enchantments are abruptly shattered by Spell Breaker.
+シルヴァン・ニンフ	Sylvan Nymph
+強力な森の精ニンフを召喚する 味方の力を増幅する魔法を使い 魔法の弓で敵を射止める	Summons a powerful forest Nymph who can bring down enemies with her magical bow and cast enchantments to strengthen allies in battle.
+コール・オブ・ワイルド	Call of the Wild
+狼を召喚し戦場で共に戦う レベルが高くなると 一度に複数の狼を召還できる	Summons a wolf companion to fight with you in battle.  At higher levels more wolves can be controlled at once.
+ハート・オブ・オーク	Heart of Oak
+術者と周囲の仲間の生命力を高める	Bolsters the life-force of yourself and nearby allies.
+トランキリティ・オブ・ウォーター	Tranquility of Water
+ハート・オブ・オークの効果範囲内で エナジー消費量が半減するチャンスが加わる	Provides a chance to use skills at 50% reduced energy cost while under the effect of Heart of Oak.
+パーマネンス・オブ・ストーン	Permanence of Stone
+エレメンタル系の攻撃による ダメージを減少させ 味方をエレメンタルから守る	Protects allies from the elements, reducing the damage caused by elemental based attacks.
+レジリエンス	Resilience
+アドレナリンの発動頻度が増加する	Increases how often an Adrenaline rush can be triggered.
+防護石	Stone of Protection
+受けるダメージが大幅に減少する	Damage taken is greatly reduced.
+戦いの石碑	Battle Marker
+攻撃速度とダメージが増加する	Attack speed and damage are increased.
+刺突石	Stone of Thorns
+ギザギザの棘が体から生え 愚かにも攻撃してきた敵を傷つける	Jagged thorns sprout from the player's body, damaging any enemies foolish enough to attack.
+俊足の石碑	Fleetfoot Marker
+移動速度が大幅に増加する	The player's movement speed is greatly enhanced.
+熟練石	Stone of Mastery
+全てのスキルを、より習熟する。	Grants the player improved proficiency with all skills.
+マークスマンシップ	Marksmanship
+矢が高速で放ち、刺突ダメージが増加する {^y}左クリックにこのスキルを割り当てよう	Marksmanship skill allows you to create and fire arrows that fly faster and increase pierce damage.  {^y}Assign this skill to your left mouse button.
+パンクチャー・ショット・アロー	Puncture Shot Arrows
+流線型のシャフトを取り入れる 敵を貫通し直線上の敵にダメージを与える	Incorporating a more streamlined shaft into your arrows allows them to pass through targets and hit additional enemies in their path.
+スキャッター・ショット・アロー	Scatter Shot Arrows
+矢作りの秘術を習得し特殊な矢尻を作る 敵に当たった瞬間に爆発し 鋭い破片が全方向に散らばる	A secret of master fletchers is the ability to craft special arrow heads that burst on impact sending out razor-sharp fragments in all directions.
+ゴージ	Gouge
+槍か弓を使った戦闘技術 深手を負わせ出血ダメージを与える	A combat technique that uses the spear or bow to inflict deep wounds that will result in prolonged bleeding.
+ヴォレー	Volley
+槍か弓を使った戦闘技術 高速で3回連続攻撃を行う	A combat technique that uses the spear or bow to rapidly strike three times.
+バトル・スタンダード	Battle Standard
+権威ある軍旗を立て、周囲の味方を勇気づける	Throw down a mighty standard to embolden the hearts of nearby allies.
+凍結石	Frostbite Stone
+冷気の力で武器が強化される 敵を動きを大幅に遅くし 少量のダメージを追加する	The player's weapon is infused with the essence of frost, slowing enemies greatly and causing small amounts of damage.
+ハート・オブ・オーク	Heart of Oak
+ニンフが樫の精の力を引き出し 味方をダメージから守りヘルスを増加させる	Nymph draws on the spirit of oak to protect allies from damage and augment their life.
+モール	Maul
+噛み付き攻撃で敵の肉を引き裂き 短時間の出血ダメージを与える	A gnawing attack that rends enemy flesh causing bleed damage for a short duration.
+パーマネンス・オブ・ストーン	Permanence of Stone
+エレメンタル系の攻撃によるダメージを減少させ 味方をエレメンタルから守る	Protects allies from the elements reducing the damage caused by elemental based attacks.
+トライアンフ	Triumph
+自分の勝利が確実であることを敵に悟らせる 敵は希望を失い腕力が落ち攻撃力が低下する	Seeing the inevitability of your triumph, enemies lose hope and the strength of their attack diminishes.
+エナジー・シールド	Energy Shield
+エナジーシールドを作り出し エレメンタルダメージを全て無効化する	Creates a shield of energy that will nullify incoming damage from elemental attacks.
+リフレクション	Reflection
+エナジー・シールドに攻撃したきた敵に ダメージを跳ね返すことができる	Gives Energy Shield the ability to reflect a portion of enemy attack damage back at them.
+ソフン・メタル	Soften Metal
+リング・オブ・フレイムの高熱で 敵の鎧と武器を溶かし、その効果を減少させる	Intense heat from the Ring of Flame softens the metal of enemy armor and weapons, decreasing their effectiveness.
+ヴォラティヴィティ	Volativity
+大地の不安定なエネルギーを増幅し 術者の炎攻撃のダメージが大幅に増加する チャンスがある	Enhanced by the volatile energy of the Earth, your fire attacks have a chance of inflicting greatly increased damage.
+ヒート・シールド	Heat Shield
+ターゲットに炎ダメージを吸収する 熱風の盾を与える	Casts a protective heat shield on the target that absorbs damage, especially from fire.
+バラージ	Barrage
+フレイム・サージのリチャージ時間と エナジー消費量が減少する	Reduces the recharge time of Flame Surge allowing it to be cast more frequently and efficiently.
+ファティーグ	Fatigue
+病気に罹った敵は体力を奪われ 動作が鈍くなり攻撃力も低下する	Saps the strength from diseased enemies causing them to move more slowly and fight less effectively.
+サセプタビリティ	Susceptibility
+近接する敵の体質を弱体化し エレメンタルダメージと毒に対する 抵抗力を弱める	Weakens the constitution of adjacent enemies making them more susceptible to physical and elemental damage.
+オーバーグロース	Overgrowth
+ニンフが仲間の周囲に生命の盾を作り出す 盾は攻撃してくる敵を傷つけ ダメージを吸収する	Allows the Nymph to create a living shield around allies that absorbs damage and harms enemies that strike it.
+ネイチャーズ・ラス	Nature's Wrath
+ニンフの攻撃にエレメンタルパワーを付与する	Imbues the Nymph's attacks with the power of the elements.
+スティンギング・ネトル	Stinging Nettle
+ブライアー・ウォードを攻撃する敵に毒を与える	Causes enemies who hit the Briar Ward to suffer poisoning.
+ストレングス・オブ・パック	Strength of the Pack
+狼の遠吠えを聞いた者は勇気づけられ 獰猛に戦うようになる	The howl of your wolves emboldens the hearts of those who hear it causing them to fight more fiercely.
+ドッジ・アタック	Dodge Attacks
+どんなに丈夫な鎧にも隙間はある 生き残るには攻撃に当たらないことが 最も望ましい	Even the sturdiest armor has its chinks.  The best way to stay alive is to not get hit.
+デトネート	Detonate
+モンスタールアーに隠し炸薬を設置し爆破する 爆破するにはルアーのエナジーが 満タンでなければならない	Adds a hidden explosive charge to the monster lure causing it to detonate when destroyed.  In order to detonate the lure must be at full energy.
+ポイズン・ガス・ボム	Poison Gas Bomb
+爆弾を投げ 破裂した瞬間に毒ガスの雲が発生し 周囲の敵にダメージを与える 混乱・恐慌・武器の命中率低下などの 副作用がある。	Lobs a bomb that will burst on impact releasing a cloud of toxic gas that damages enemies and impairs their attacks.
+シュラプネル	Shrapnel
+揮発性の液体と金属片が詰まっており 毒ガス爆弾が破裂した瞬間に 一帯に破片が飛び散る	Packed with volatile liquid and metal scraps, the Poison Gas Bomb will explode violently on impact showering the area with deadly Shrapnel.  Each fragment of shrapnel inflicts piercing damage to the enemies it hits.
+ポイズン・クラウド	Poison Cloud
+隠し炸薬により モンスタールアーが破壊された時に爆発する モンスタールアーのエネルギーが 満タンでないと爆発しない。	A hidden explosive charge causes the monster lure to detonate when destroyed.  In order to detonate the lure must be at full energy.
+モータル・ウーンド	Mortal Wound
+リーサル・ストライクにスタン効果が加わり 毒と出血ダメージの威力が著しく増大する	Stuns victims of Lethal Strike and greatly magnifies the impact of poison and bleeding damage caused by the attack.
+ディスアーム・トラップ	Disarm Traps
+トラップと魔法装置の専門知識を学び ダメージ回避と無力化を容易にする	Expertise with traps and magical devices allows the Rogue to easily disable them and avoid their damage.
+ネガティブ・エナジー・ヴォーテクス	Negative Energy Vortex
+負のエナジーの渦を作り出し 味方にかけられた負の魔法と 敵にかけられた強化魔法を全て剥がす さらに敵のエナジーを奪い その量と同等のダメージを与える	Creates a vortex of negative energy that strips negative enchantments off allies and positive enchantments off enemies.  Also drains enemy energy and inflicts damage equal to a portion of the energy depleted.
+デス・チェイン	Death Chain
+ネガティブ・エナジー・ヴォーテクスが 最初のターゲットを貫通し 隣接する敵にも炸裂する	Causes the Negative Energy Vortex to blast through the primary target and hit adjacent enemies.
+アーケイン・ブラスト	Arcane Blast
+リッチキングが古代の秘術を使い エレメンタルエナジーの矢を作りだし 敵に撃ち込む	Drawing upon ancient arcane craft the Liche King forms deadly bolts of elemental energy and launches them at enemies.
+サモン・アウトサイダー	Summon Outsider
+強力な異次元の存在を呼び起こす 短時間しかこちら側に繋ぎとめることはできない	Calls forth a powerful extra-dimensional entity from beyond the ether.  The link can only be maintained for a short time.
+コンカッション・ブロウ	Concussive Blow
+棍棒系の武器を装備しているとき スタン頻度と効果時間が増大する	Adds a chance for attacks to stun enemies and increases the duration of stun attacks when wielding a club or axe.
+フリージング・ブラスト	Freezing Blast
+敵を氷の中に閉じ込め動けなくするが ダメージを与えることが困難になる	Encases enemies in ice, immobilizing them but also making them more difficult to damage.
+アイ・オブ・ストーム	Eye of the Storm
+ウィスプが周囲の味方の雷と冷気ダメージ 及び抵抗力を増加させる能力を得る	A wisp ability that increases elemental damage of all nearby allies for a duration and provides protection from lightning and cold damage.
+アブソーブ・ライフ	Absorb Life
+武器攻撃で失われた敵のヘルスの一定量を 吸収する	Absorbs a portion of the life that leaves enemies as you inflict weapon damage upon them.
+デス・ノヴァ	Death Nova
+死の波動を放出する それに触れた生物は生命力が弱体化する	Emits a wave of death that will deplete life from any living being it contacts.
+ギャザー・ライフ	Gather Life
+デス・ノヴァにより失われた生物の生命力を集め 自分に補給する	Gathers the living essence torn from creatures by Death Nova and uses it to supplement your lost life.
+ライフ・ドレイン	Life Drain
+敵のヘルスを吸い取り術者のヘルスを回復する	Leaches life from an enemy to replenish your own.
+カスケード	Cascade
+ライフ・ドレインが 最初のターゲットから飛び移り 複数の敵に影響を及ぼす	Causes Life Drain to blast through the primary target and hit multiple enemies.
+経験石	Stone of Experience
+偉大な知識と精神の鋭さを得る 得られる経験が大きく増加する	You have been granted great wisdom and acuity of mind, significantly increasing how quickly you can gain experience.
+エンスレイブ・スピリット	Enslave Spirit
+敵の心理障壁をすり抜け心を支配し 術者の意思に従わせる 奴隷化した敵は術者の命令に従うが しばらくすると心を取り戻し反撃してくる	Slip through the barriers of your enemies' consciousness and dominate their mind, binding them to your will.  While enslaved your enemy will be forced to obey your commands but eventually they will regain control of their mind and turn against you.  {^y}Ineffective against monsters five or more levels above you.
+ターニオン・アタック	Ternion Attack
+強力な魔術師の技術で、継続的にエネルギーを スタッフに送り込むことで スタッフ攻撃が3重になる	This powerful wizard's trick causes your staff to shoot three projectiles by channeling magical energy into it.  Initially each hit is not as powerful as a normal attack but the effectiveness increases every level.
+アーケイン・ロア	Arcane Lore
+古代文明の魔術師は 魔法の杖の破壊力を高める秘技を たくさん編み出した その知識を学ぶことで スタッフの真の力を引き出す	The magic practitioners of older civilizations devised many insidious techniques to bolster the destructive capabilities of their magical staves.  Knowledge of these methods will unlock the true power of your staff attacks.
+オブスキュア・ヴィジビリティ	Obscured Visibility
+スコール内の視界が悪化し 敵の攻撃力や防御力が減少する	Reduced visibility inside the Squall makes it difficult for enemies to effectively attack or defend themselves.
+イーサ・ストライク	Ether Strike
+異世界の力を敵にぶつけ 敵の魂に現実世界の構造を焼き付ける	Strikes with otherworldly energy that has the power to sear an enemy's spirit from the very fabric of reality.
+スペクトラル・ボルト	Spectral Bolt
+霊的な力の矢を放ち 触れた生き物の命を消耗させる	Casts a bolt of spectral energy that depletes life from any living thing it touches.
+イーサ・サージ	Ether Surge
+異世界の力を発射し 敵の魂を焼いて消滅させる	Sends out a wave of ethereal energy that burns enemies' spirits out of existence.
+プラズマ・バーン	Plasma Burn
+エレメンタルエナジーで敵を消毒する	Scalds enemies with a blast of elemental energy.
+ザップ	Zap
+雷攻撃で敵を感電死させる	Electrocutes enemies with lightning attacks.
+ストーム・プロパティー	Storm Properties
+ライト・ボルト	Light Bolt
+ヘビー・ボルト	Heavy Bolt
+ピアシング・ボルト	Piercing Bolt
+フック・ボルト	Hooked Bolt
+マグマ・ストライク	Magma Strike
+ボウ・アタック	Bow Attack
+バースト・オブ・スピード	Burst of Speed
+フレンジ	Frenzy
+スレトニング・ベロウ	Threatening Bellow
+ブレード・ストーム	Blade Storm
+スピリット・ウォード	Spirit Ward
+魔法の結界で術者と周囲の仲間を アンデッドの攻撃から守る アンデッドから受けるダメージが減少する	Casts a protective ward that will reduce the damage of undead attacks on the player and nearby allies.
+スピリット・ベイン	Spirit Bane
+スピリット・ウォードの効果を受けているとき アンデッドに対するダメージが増加する	Adds damage against undead to the attacks of those under the effects of Spirit Ward.
+エナジー活性の祭壇	Energizing Shrine
+Infuses the player with arcane power, dramatically increasing energy regeneration.	Infuses the player with arcane power, dramatically increasing energy regeneration.
+サンダークラップ	Thunderclap
+電気エネルギーを環状に放出し 範囲内の敵をスタンさせる	Releases an electrical ring of energy that stuns enemies within its radius.
+チャージ	Charge
+敵に突撃して攻撃をし 追加ダメージを与える	Charges the target and executes an attack inflicting bonus damage.
+ランギッシュ	Languish
+病気になった敵を衰弱させ 物理抵抗力と移動速度を低下させる	Causes diseased enemies to waste away weakening their resistance to physical attacks and slowing their movements.
