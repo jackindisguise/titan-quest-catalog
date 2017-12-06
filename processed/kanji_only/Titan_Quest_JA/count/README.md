@@ -1,0 +1,1 @@
+All instances of kanji in the script, ordered by most appearances to least, partnered with the number of appearances in the script.

@@ -1,0 +1,1 @@
+All instances of kanji in the script, in the order of kanji apperance, with duplicates removed.

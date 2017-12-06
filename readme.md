@@ -1,6 +1,12 @@
-Acquisition
------------
-Ripped from Titan_Quest_JA.arc found in Titan Quest files.
+Source
+------
+Ripped from *.arc files found in `/Steam/steamapps/common/Titan Quest Anniversary Edition/Text`
+
+Goal
+----
+The goal of this project is to catalog the vocabulary and kanji found in Titan Quest Anniversary Edition on Steam.
+
+These resources are aimed at mid level Japanese learners.
 
 Complete List of Kanji
 ----------------------
